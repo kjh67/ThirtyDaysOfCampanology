@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">30 Days of Campanology</string>
+    <string name="dayTemplate">Day %s</string>
+    <string name="tip1Title">Get to the pub!</string>
+    <string name="tip1Content">Bell-ringing is not only a great physical and mental activity, but
+        also a social one. Try joining the rest of your local band in the pub after a practice if
+        you haven\'t already - many would say it\'s the best bit of the evening!</string>
+    <string name="tip2Title">Practice makes permanent</string>
+    <string name="tip2Content">The longer you continue ringing with a flawed technique, the more
+        ingrained the flaws become and the more difficult it is to correct them later. Ask a friend
+        to record your ringing style, and be self-critical of your technique. You could also ask
+        your local teachers for any advice they may have, or other band members for any points they
+        might have noticed. Bear this in mind when training new recruits too, and make sure that
+        any bad habits are picked up on quickly\!</string>
+    <string name="tip3Title">Do your homework</string>
+    <string name="tip3Content">To get the most out of practices, do your method learning and method revision beforehand. You\'ll have much more time to be thorough and sure of your line, compared to panicking to get a line into your head immediately before a touch. The rest of the band will thank you too\!</string>
+    <string name="tip4Title">You don\'t have to correct to conduct</string>
+    <string name="tip4Content">The only job a conductor has, whether of a touch, quarter, or peal, is to put the calls and method changes in the right place. The next steps, knowing when the ringing has gone wrong, and knowing how to correct it, are bonuses\; don\'t be put off from having a go at conducting just because you can\'t do the extra bits yet.</string>
+    <string name="tip5Title">Give handbells a go</string>
+    <string name="tip5Content">While ringing two bells to methods instead of one may seem intimidating at first, becoming more experienced in handbell ringing translates to useful skills in tower. In particular, handbell ringing encourages a greater appreciation of method structure, which becomes increasingly valuable when trying to keep other ringers right. You might even come to love handbell ringing in its own right, for the unique challenges it presents.</string>
+</resources>
